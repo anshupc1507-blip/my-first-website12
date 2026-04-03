@@ -1,0 +1,18 @@
+h1{
+    color:blueviolet;
+}
+a{
+    color: cadetblue;
+}
+p{
+    color: orangered;
+}
+ol{
+    color: cadetblue;
+     border-left: 4px dashed whitesmoke;
+}em{
+    color: blue;
+}
+body{
+    background-color: lightgray;
+}
